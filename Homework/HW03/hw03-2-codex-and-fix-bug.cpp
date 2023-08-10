@@ -12,8 +12,8 @@ int main()
     }
     else while( i <= 5 ) ;
         printf( "not-okey-%d" , ++i ) ;
-    for( i=3;i<10;i+=1 )
-    if( i%2==(!1?1:2) )
+    for( i=3 ; i<10 ; i+=1 )
+    if( i%2== (!1?1:2) )
     { 
         printf( "see see" ) ; 
         printf( "haha" ) ;
