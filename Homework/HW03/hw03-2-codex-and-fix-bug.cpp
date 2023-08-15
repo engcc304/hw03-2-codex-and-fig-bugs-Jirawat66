@@ -20,10 +20,10 @@ int main()
         }
         for( i=3 ; i<10 ; i+=1 ) 
         {
-
             if( i %2== (!1?1:2) )
             { 
                 printf( "see see" ) ; 
+            }
             else
             {
                 printf( "haha" ) ;
